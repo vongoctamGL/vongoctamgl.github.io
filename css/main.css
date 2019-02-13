@@ -4137,3 +4137,16 @@ article.blog-single .blog-content {
         display: none;
     }
 }
+#education{
+    width: 100%;
+    min-height: 268px;
+    background-color: #fff;
+    padding: 5px 10px;
+    text-align: center;
+    
+}
+#education .col-eight{
+    padding-top: 68px;
+    
+
+}
